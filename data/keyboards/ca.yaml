@@ -28,9 +28,9 @@ views:
         - "show_numbers_from_symbols   \\ / < > = [ ]  BackSpace"
         - "show_letters preferences         space        show_eschars Return"
     eschars:
-        - "à â ç é è ê î ô ù û"
-        - "À Â Ç É È Ê Î Ô Ù Û"
-        - "show_numbers_from_symbols  æ œ ä ë ï ö ü  BackSpace"
+        - "à â ç é è ê ë î ï ô"
+        - "ù û À Â Ç É È Ê Î Ô"
+        - "show_numbers_from_symbols  ' ! ? . ,   BackSpace"
         - "show_letters preferences         space        show_eschars Return"
 
 buttons:
